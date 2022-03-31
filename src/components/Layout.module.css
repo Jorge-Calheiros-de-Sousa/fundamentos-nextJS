@@ -1,0 +1,15 @@
+.lista{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.itemLista{
+    border: 1px solid #eee;
+    padding: 10px;
+    cursor: pointer;
+}
+.itemLista:hover{
+    background-color: #eee;
+    color: #222;
+}

@@ -1,0 +1,15 @@
+.button{
+    padding: 10px;
+    border: 1px solid white;
+    background-color: #222;
+    color: #eee;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px #eee;
+    cursor: pointer;
+    transition: background 100ms linear;
+}
+
+.button:active{
+    background-color: #eee;
+    color: #222;
+}
